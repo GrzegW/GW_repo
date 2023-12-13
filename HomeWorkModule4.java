@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 import static org.junit.jupiter.api.Assertions.*;
-
+//komentarz w celu sprawdzenia pullrequests
 public class HomeWorkModule4 {
     public static void main(String[] args) {
         int year = getYear();
