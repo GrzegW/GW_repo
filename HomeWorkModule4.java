@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class HomeWorkModule4 {
     public static void main(String[] args) {
         int year = getYear();
+	int testGitem = 1;
 
         int Aga = 1987;
         int Natalia = 2014;
